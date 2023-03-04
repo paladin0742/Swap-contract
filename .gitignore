@@ -1,0 +1,6 @@
+.env
+/artifacts
+/cache
+/.vscode
+/node_modules
+package-lock.json
